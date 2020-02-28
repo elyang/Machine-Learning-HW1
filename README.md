@@ -1,2 +1,2 @@
 # Machine-Learning-HW1
-project 1
+BIOS 534 project 1
